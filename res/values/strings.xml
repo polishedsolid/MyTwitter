@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTwitter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">phatlab twitter</string>
+    <string name="twitter_consumer_key">a3TeDLoT2P9R2B5iqzG70Q</string>
+    <string name="twitter_consumer_secret">H4TSQu983ZtWFrGUGobqvDcTL1WE1C9nC3Ky7B8Q</string>
+    <string name="twitter_oauth">Twitter認証</string>
+    <string name="twitter_callback_url">phatlab://twitter</string>
+    <string name="menu_refresh">更新</string>
+    <string name="menu_tweet">つぶやく</string>
+
+</resources>
